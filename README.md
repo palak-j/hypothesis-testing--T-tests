@@ -1,4 +1,4 @@
-# hypothesis-testin-T-tests
+# hypothesis-testing-T-tests
 ### Hypothesis testing:
 It is the process to assess the plausibility of a hypothesis by using sample data. We make hypothesis about the population parameter and test that with sample data. If obtained sample statistics falls into a region far way from the hypothesized parameter (this region is called region of rejection), then hypothesis can be rejected.
 
