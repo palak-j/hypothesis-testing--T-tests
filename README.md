@@ -45,4 +45,6 @@ Suppose that students are assigned to either a maths class(n1=4) or computer cla
 #### For computer class:  scores = [73,69,75,71,84]
 
 
-
+For more detailed explanation:
+#### Visit
+#### https://palak-j.github.io/notes
